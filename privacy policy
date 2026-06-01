@@ -1,0 +1,24 @@
+Privacy Policy — Auto Publisher
+Last updated: June 1, 2026
+
+1. Introduction
+Auto Publisher ("the app") is a private automation tool used solely by its owner to publish video content to TikTok. We take your privacy seriously.
+
+2. Data We Collect
+The app accesses:
+
+TikTok account credentials (OAuth access token) to publish content on your behalf
+Video files stored in your Google Drive for processing and upload
+3. How We Use Your Data
+All data is used exclusively to automate video publishing. No data is sold, shared, or transferred to third parties.
+
+4. Data Storage
+Access tokens are stored locally on the operator's private server. Video files are processed and deleted after upload.
+
+5. Third-Party Services
+The app integrates with:
+
+Google Drive API (Google LLC)
+TikTok Content Posting API (ByteDance Ltd)
+Their respective privacy policies apply to data handled by their platforms.
+
